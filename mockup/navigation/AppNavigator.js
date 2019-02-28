@@ -10,7 +10,7 @@ const nav = createStackNavigator({
   Login: { screen: LoginScreen },
   List: { screen: ListScreen }
 }, {
-  initialRouteName: 'List',
+  initialRouteName: 'Login',
 });
 
 nav.navigationOptions = {

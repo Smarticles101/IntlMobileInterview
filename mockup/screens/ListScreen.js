@@ -23,8 +23,8 @@ export default class ListScreen extends React.Component {
 
     delete = (index) => {
       rows = JSON.parse(JSON.stringify(this.state.rows))
-      rows[index].text = undefined;
-      this.setState({ rows })
+      rows.splice(index, 1);
+      this.setState({ rows });
     }
     
     render() {
