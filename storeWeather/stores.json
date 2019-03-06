@@ -1,0 +1,44 @@
+[
+    {
+        "storeNbr": "HomeOffice",
+        "address": "702 SW 8th St",
+        "city": "Bentonville",
+        "state": "Arkansas" 
+    },
+    {
+        "storeNbr": "5402",
+        "address": "4650 W North Ave",
+        "city": "Chicago",
+        "state": "Illinois" 
+    },
+    {
+        "storeNbr": "772",
+        "address": "3506 Highway 6 S",
+        "city": "Houston",
+        "state": "Texas" 
+    },
+    {
+        "storeNbr": "1549",
+        "address": "2020 N 75th Ave",
+        "city": "Phoenix",
+        "state": "Arizona" 
+    },
+    {
+        "storeNbr": "2141",
+        "address": "1675 Christopher Columbus Blvd",
+        "city": "Philadelphia",
+        "state": "Pennsylvania" 
+    },
+    {
+        "storeNbr": "2150",
+        "address": "710 Dennery Road",
+        "city": "San Diego",
+        "state": "California" 
+    },
+    {
+        "storeNbr": "1082",
+        "address": "10991 San Jose Blvd Ste 1",
+        "city": "Jacksonville",
+        "state": "Florida" 
+    }
+]
